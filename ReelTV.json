@@ -70,6 +70,13 @@
     "allowOffline": true
   },
   {
+    "id": "f6f11b86d0f9fcfa",
+    "username": "6285171724374",
+    "password": "reeltv",
+    "expiresAt": "2025-07-30",
+    "allowOffline": true
+  },
+  {
     "id": "android_device_id_2",
     "username": "user2",
     "password": "pass2",
